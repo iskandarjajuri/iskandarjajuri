@@ -37,6 +37,27 @@ communication, cultural awareness, and consistency.
 毎日の開発に活かしています。
 
 ---
+<p align="center">
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=iskandarjajuri&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" 
+       height="160"
+  />
+<p align="center">
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=iskandarjajuri&layout=compact&theme=tokyonight" 
+       height="160"
+  />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iskandarjajuri&theme=tokyo-night" />
+</p>
+<p align="center">
+  <img 
+       src="https://streak-stats.demolab.com?user=iskandarjajuri&theme=tokyonight&date_format=%5BY.%5Dn.j" 
+       height="160"
+  />
+</p>
+---
 
 ## 🧭 Skills Overview / スキル図
 
