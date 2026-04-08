@@ -1,13 +1,13 @@
 <!-- Banner Header -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0d1117,100:1e2731&height=220&section=header&text=Iskandar%20Jajuri&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=40" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0d1117,1e2731&height=220&section=header&text=Iskandar%20Jajuri&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=40" />
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/iOS-SwiftUI-orange?logo=swift" />
 <img src="https://img.shields.io/badge/Android-Kotlin-7F52FF?logo=kotlin" />
-<img src="https://img.shields.io/badge/KMM-Kotlin%20Multiplatform-0095D5?logo=kotlin" />
+<img src="https://img.shields.io/badge/KMM-Kotlin_Multiplatform-0095D5?logo=kotlin" />
 <img src="https://img.shields.io/badge/Firebase-Backend-FFCA28?logo=firebase" />
 <img src="https://img.shields.io/badge/AWS-Cloud-FF9900?logo=amazonaws" />
 </p>
@@ -18,141 +18,149 @@
 
 ### 🇯🇵 Bridging Japan & Indonesia through Technology
 
-I am a Mobile Engineer specializing in **iOS (SwiftUI), Android (Kotlin), and Kotlin Multiplatform (KMM)** — with a strong focus on **architecture, problem solving, and real-world product development**.
+### 🇯🇵 技術で日本とインドネシアをつなぐエンジニア
 
-I don’t just build apps — I design **reliable systems** that solve operational problems and create long-term value.
+I am a Mobile Engineer specializing in iOS (SwiftUI), Android (Kotlin), and Kotlin Multiplatform (KMM),
+with a strong focus on architecture, problem solving, and real-world product development.
 
-SwiftUI と Kotlin を軸に、単なるアプリ開発ではなく、  
-実際の業務課題を解決する「信頼できるシステム」を構築しています。
+私は SwiftUI・Kotlin・KMM を中心に、
+アーキテクチャ設計・問題解決・実務ベースの開発に強みを持つモバイルエンジニアです。
+
+I design reliable systems — not just apps.
+
+単なるアプリ開発ではなく、「信頼できるシステム」を設計・構築しています。
 
 ---
 
 ## 🚀 About Me / 自己紹介
 
-I work closely with Japanese professionals in a real business environment,  
-which allows me to understand not only technology — but also **Japanese work culture and expectations**.
+I work closely with Japanese professionals in a real business environment,
+which allows me to understand both technology and Japanese work culture deeply.
 
-日本の方々との日々の協働を通じて、技術だけでなく  
-「文化・考え方・仕事の進め方」を深く理解しています。
+日本人エンジニアやビジネスパーソンと日々協働し、
+技術だけでなく、日本の働き方や価値観も深く理解しています。
 
-My goal is to become a **Bridge Engineer between Japan and Indonesia**,  
-combining technical expertise with cultural understanding.
+My goal is to become a bridge engineer connecting Japan and Indonesia.
 
----
-
-## 💡 What Makes Me Different
-
-✔ Not just a Mobile Developer — **I think in systems and architecture**  
-✔ Not just coding — **I solve real operational problems**  
-✔ Not just technical — **I understand Japanese culture & communication**  
+日本とインドネシアをつなぐ「ブリッジエンジニア」を目指しています。
 
 ---
 
-## 🧠 Engineering Strengths
+## 💡 What Makes Me Different / 強み
 
-• **Architecture Mindset**  
-  Clean Architecture, modularization, scalable mobile systems  
+✔ Architecture-focused engineer
+アーキテクチャを意識した設計ができる
 
-• **Problem Solving**  
-  Focus on stability, simplicity, and real-world usability  
+✔ Problem solver in real-world operations
+実務課題を解決できるエンジニア
 
-• **Cross-Platform Development**  
-  iOS (SwiftUI) / Android (Kotlin) / KMM shared logic  
-
-• **Backend Awareness**  
-  Firebase, API integration, cloud-based systems  
-
-• **Product Thinking**  
-  Building features based on real needs, not assumptions  
+✔ Cross-cultural understanding (Japan–Indonesia)
+日印の文化理解
 
 ---
 
-## 💼 Real-World Experience
+## 🧠 Engineering Strengths / 技術的強み
 
-Currently working in a Japanese business environment,  
-contributing to operational improvement through mobile solutions.
+• Clean Architecture / Modular Design
+　クリーンアーキテクチャ・モジュール設計
 
-### 🚗 DriveMate (Internal App)
+• Problem Solving (Practical & Scalable)
+　実用的かつスケーラブルな問題解決
 
-A digital transformation project replacing manual workflows:
+• Cross-platform (iOS / Android / KMM)
+　クロスプラットフォーム開発
 
-• Attendance system  
-• Vehicle checklist & safety validation  
-• Real-time driver tracking  
-• Reporting & operational insights  
+• Backend Integration (Firebase / API / Cloud)
+　バックエンド連携
 
-This experience strengthened my ability to:
-
-→ Understand business problems  
-→ Design scalable solutions  
-→ Deliver reliable mobile systems  
+• Product Thinking
+　プロダクト視点での開発
 
 ---
 
-## 🎌 Japanese Work Culture Experience
+## 💼 Real-World Experience / 実務経験
 
-Working with Japanese colleagues has shaped my mindset:
+Currently working in a Japanese business environment,
+developing solutions to improve operations.
 
-• 報連相 (Ho-Ren-So) — clear communication  
-• High attention to detail  
-• Consistency & reliability  
-• Respect for process and continuous improvement  
+日本企業環境で業務改善のためのアプリ開発に従事しています。
 
-I apply these values directly into my engineering approach.
+### 🚗 DriveMate (Internal DX App)
+
+• Attendance management
+• Vehicle checklist & safety validation
+• Real-time tracking
+• Reporting system
+
+• 勤怠管理
+• 車両チェック・安全確認
+• リアルタイム追跡
+• レポート機能
+
+This experience strengthened my ability to design reliable systems.
+
+この経験により、実務に耐えうるシステム設計力を強化しました。
+
+---
+
+## 🎌 Japanese Work Style / 日本式の働き方
+
+• 報連相 (Ho-Ren-So)
+• Attention to detail
+• Consistency & reliability
+• Continuous improvement
+
+これらの価値観を開発にも活かしています。
 
 ---
 
 ## ⚙️ Tech Stack
 
 **Mobile**
-- SwiftUI (iOS)
-- Kotlin (Android)
-- Kotlin Multiplatform (KMM)
+
+* SwiftUI (iOS)
+* Kotlin (Android)
+* Kotlin Multiplatform
 
 **Backend / Cloud**
-- Firebase
-- AWS
+
+* Firebase
+* AWS
 
 **Architecture**
-- Clean Architecture
-- MVVM / MVI
 
-**Tools**
-- Git / GitHub
-- REST API Integration
+* Clean Architecture
+* MVVM / MVI
 
 ---
 
-## 📈 Currently Growing
+## 📈 Currently Learning / 学習中
 
-• CI/CD for mobile development  
-• Scalable system design  
-• AI integration in mobile apps  
+• CI/CD
+• System Design
+• AI Integration
 
 ---
 
-## 🎯 Vision
+## 🎯 Vision / 目標
 
-I aim to become a **high-impact engineer** who can:
+Build reliable products, solve real problems,
+and connect Japan and Indonesia through technology.
 
-→ Build reliable products  
-→ Solve real business problems  
-→ Connect Japan and Indonesia through technology  
+信頼できるプロダクトを作り、
+技術で日本とインドネシアをつなぐ。
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=iskandarjajuri&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" height="160"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iskandarjajuri\&show_icons=true\&theme=tokyonight\&hide_title=true\&count_private=true)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iskandarjajuri&layout=compact&theme=tokyonight" height="160"/>
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iskandarjajuri\&layout=compact\&theme=tokyonight)
 
 ---
 
 ## 🤝 Let's Connect
 
-I’m always open to collaboration, learning, and opportunities in Japan 🇯🇵
+Open for opportunities in Japan 🇯🇵
+日本での機会を歓迎しています
