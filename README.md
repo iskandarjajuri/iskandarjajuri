@@ -1,148 +1,158 @@
 <!-- Banner Header -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0d1117,100:1e2731&height=220&section=header&text=Iskandar%20Jajuri&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=40" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0d1117,100:1e2731&height=220&section=header&text=Iskandar%20Jajuri&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=40" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/iOS-SwiftUI-orange?logo=swift" />
-  <img src="https://img.shields.io/badge/Android-Kotlin-7F52FF?logo=kotlin" />
-  <img src="https://img.shields.io/badge/KMM-Kotlin%20Multiplatform-0095D5?logo=kotlin" />
-  <img src="https://img.shields.io/badge/Firebase-Backend-FFCA28?logo=firebase" />
-  <img src="https://img.shields.io/badge/AWS-Cloud-FF9900?logo=amazonaws" />
+<img src="https://img.shields.io/badge/iOS-SwiftUI-orange?logo=swift" />
+<img src="https://img.shields.io/badge/Android-Kotlin-7F52FF?logo=kotlin" />
+<img src="https://img.shields.io/badge/KMM-Kotlin%20Multiplatform-0095D5?logo=kotlin" />
+<img src="https://img.shields.io/badge/Firebase-Backend-FFCA28?logo=firebase" />
+<img src="https://img.shields.io/badge/AWS-Cloud-FF9900?logo=amazonaws" />
 </p>
 
 ---
 
-# 👋 Hi, I'm Iskandar — Mobile Developer / モバイルエンジニア
+# 👋 Hi, I'm Iskandar — Mobile Engineer / モバイルエンジニア
 
-I build iOS, Android, and KMM apps with a focus on clean UI, practical features,
-and reliable engineering.
-SwiftUI と Kotlin を中心に、日常の課題を丁寧に解決するアプリづくりを大切にしています。
+### 🇯🇵 Bridging Japan & Indonesia through Technology
 
-技術を通じて日本とインドネシアをつなぐ架け橋のような存在を目指し、
-シンプルで落ち着いたデザインと、誠実なものづくりを心がけています。
+I am a Mobile Engineer specializing in **iOS (SwiftUI), Android (Kotlin), and Kotlin Multiplatform (KMM)** — with a strong focus on **architecture, problem solving, and real-world product development**.
+
+I don’t just build apps — I design **reliable systems** that solve operational problems and create long-term value.
+
+SwiftUI と Kotlin を軸に、単なるアプリ開発ではなく、  
+実際の業務課題を解決する「信頼できるシステム」を構築しています。
 
 ---
 
 ## 🚀 About Me / 自己紹介
 
-I enjoy crafting products that feel calm, intuitive, and genuinely helpful.
-ひとりでモバイル開発からクラウド連携まで対応し、
-Firebase・AWS などの必要な部分は自分の手で丁寧に組み上げています。
+I work closely with Japanese professionals in a real business environment,  
+which allows me to understand not only technology — but also **Japanese work culture and expectations**.
 
-Working closely with Japanese colleagues has taught me the value of
-communication, cultural awareness, and consistency.
-日本の方々との協働で学んだ「丁寧さ」「信頼」「継続」を、
-毎日の開発に活かしています。
+日本の方々との日々の協働を通じて、技術だけでなく  
+「文化・考え方・仕事の進め方」を深く理解しています。
 
----
-<p align="center">
-  <img 
-       src="https://github-readme-stats.vercel.app/api?username=iskandarjajuri&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" 
-       height="160"
-  />
-<p align="center">
-  <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=iskandarjajuri&layout=compact&theme=tokyonight" 
-       height="160"
-  />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iskandarjajuri&theme=tokyo-night" />
-</p>
-<p align="center">
-  <img 
-       src="https://streak-stats.demolab.com?user=iskandarjajuri&theme=tokyonight&date_format=%5BY.%5Dn.j" 
-       height="160"
-  />
-</p>
----
-
-## 🧭 Skills Overview / スキル図
-
-```
-iOS (SwiftUI)           ████████████████▓░  90%
-Android (Kotlin)        ████████████▓░░░  75%
-KMM / Multiplatform     ███████████▓░░░░  70%
-Firebase                ████████████▓░░░  80%
-AWS                     ██████████░░░░░░  65%
-UI/UX (Japan-friendly)  ████████████▓░░░  80%
-Cross-cultural Work     ████████████████  95%
-```
-
-
+My goal is to become a **Bridge Engineer between Japan and Indonesia**,  
+combining technical expertise with cultural understanding.
 
 ---
 
-## 🎯 What I’m Good At / 得意なこと
+## 💡 What Makes Me Different
 
-* 🍎 SwiftUI, Combine, Async/Await
-* 🤖 Kotlin, Jetpack Compose
-* 🌀 Kotlin Multiplatform Mobile (KMM)
-* ☁️ Firebase (Auth, Firestore, Storage)
-* 🔧 AWS (Lambda, Lightsail, API Gateway, EC2)
-* 🧩 Modular apps & maintainable code
-* 🎨 Japan-friendly UI/UX with calm visuals
-* 🤝 Cross-cultural collaboration (JP–ID)
+✔ Not just a Mobile Developer — **I think in systems and architecture**  
+✔ Not just coding — **I solve real operational problems**  
+✔ Not just technical — **I understand Japanese culture & communication**  
 
 ---
 
-## 🛠 Tech Stack / 技術スタック
+## 🧠 Engineering Strengths
 
-**Languages & Frameworks**
-Swift · SwiftUI · Kotlin · KMM · Jetpack Compose · HTML/CSS
+• **Architecture Mindset**  
+  Clean Architecture, modularization, scalable mobile systems  
 
-**Cloud**
-Firebase · Firestore · AWS
+• **Problem Solving**  
+  Focus on stability, simplicity, and real-world usability  
+
+• **Cross-Platform Development**  
+  iOS (SwiftUI) / Android (Kotlin) / KMM shared logic  
+
+• **Backend Awareness**  
+  Firebase, API integration, cloud-based systems  
+
+• **Product Thinking**  
+  Building features based on real needs, not assumptions  
+
+---
+
+## 💼 Real-World Experience
+
+Currently working in a Japanese business environment,  
+contributing to operational improvement through mobile solutions.
+
+### 🚗 DriveMate (Internal App)
+
+A digital transformation project replacing manual workflows:
+
+• Attendance system  
+• Vehicle checklist & safety validation  
+• Real-time driver tracking  
+• Reporting & operational insights  
+
+This experience strengthened my ability to:
+
+→ Understand business problems  
+→ Design scalable solutions  
+→ Deliver reliable mobile systems  
+
+---
+
+## 🎌 Japanese Work Culture Experience
+
+Working with Japanese colleagues has shaped my mindset:
+
+• 報連相 (Ho-Ren-So) — clear communication  
+• High attention to detail  
+• Consistency & reliability  
+• Respect for process and continuous improvement  
+
+I apply these values directly into my engineering approach.
+
+---
+
+## ⚙️ Tech Stack
+
+**Mobile**
+- SwiftUI (iOS)
+- Kotlin (Android)
+- Kotlin Multiplatform (KMM)
+
+**Backend / Cloud**
+- Firebase
+- AWS
+
+**Architecture**
+- Clean Architecture
+- MVVM / MVI
 
 **Tools**
-Xcode · Android Studio · GitHub · Figma · Postman · Notion
+- Git / GitHub
+- REST API Integration
 
 ---
 
-## 🎌 Cross-Cultural Work / 日⇆尼 ブリッジ経験
+## 📈 Currently Growing
 
-I work closely with Japanese engineers and expatriates,
-which helps me understand communication style, work expectations,
-and engineering values deeply.
-日本の文化や品質への姿勢を尊重しながら、
-両国の考え方をつなぎ、気持ちよく仕事ができる環境を作ることを心がけています。
+• CI/CD for mobile development  
+• Scalable system design  
+• AI integration in mobile apps  
 
 ---
 
-## 📱 Current Project / 現在取り組んでいること
+## 🎯 Vision
 
-**DriveMate (iOS + Android + KMM)**
-A mobility and operations support app designed with clean UI,
-stable data flow, and real-world workflow considerations.
-実務に寄り添う、シンプルで使いやすいアプリを目指して開発しています。
+I aim to become a **high-impact engineer** who can:
 
-
----
-
-## 💡 My Development Style / 開発スタイル
-
-* Build things that are genuinely useful
-* UI は派手さより「落ち着き」と「わかりやすさ」
-* Tiny improvements, every day
-* Engineering with cultural empathy
-* 丁寧なコミュニケーションを大切にする
+→ Build reliable products  
+→ Solve real business problems  
+→ Connect Japan and Indonesia through technology  
 
 ---
 
-## 🔗 Links
-
-* LinkedIn → [https://www.linkedin.com/in/iskandar-jajuri-7366b911a/](https://www.linkedin.com/in/iskandar-jajuri-7366b911a/)
-* Qiita → [https://qiita.com/iskandar](https://qiita.com/iskandar)
-* Note → [https://note.com/iskandar_dev](https://note.com/iskandar_dev)
-
----
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=1e2731&height=150&section=footer" />
+<img src="https://github-readme-stats.vercel.app/api?username=iskandarjajuri&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" height="160"/>
 </p>
 
 <p align="center">
-  <sub>Thanks for visiting.<br/>最新技術とシンプルなものづくりを楽しみながら、これからも成長していきます。</sub>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iskandarjajuri&layout=compact&theme=tokyonight" height="160"/>
 </p>
+
+---
+
+## 🤝 Let's Connect
+
+I’m always open to collaboration, learning, and opportunities in Japan 🇯🇵
