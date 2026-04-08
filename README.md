@@ -1,24 +1,12 @@
-<!-- Banner Header -->
+# 👋 Hi, I'm Iskandar — Mobile Engineer / モバイルエンジニア
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0d1117,1e2731&height=220&section=header&text=Iskandar%20Jajuri&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=40" />
-</p>
+### 🇯🇵 Bridging Japan and Indonesia through Technology
 
-<p align="center">
-<img src="https://img.shields.io/badge/iOS-SwiftUI-orange?logo=swift" />
-<img src="https://img.shields.io/badge/Android-Kotlin-7F52FF?logo=kotlin" />
-<img src="https://img.shields.io/badge/KMM-Kotlin_Multiplatform-0095D5?logo=kotlin" />
-<img src="https://img.shields.io/badge/Firebase-Backend-FFCA28?logo=firebase" />
-<img src="https://img.shields.io/badge/AWS-Cloud-FF9900?logo=amazonaws" />
-</p>
+### 🇯🇵 技術で日本とインドネシアをつなぐエンジニア
 
 ---
 
-# 👋 Hi, I'm Iskandar — Mobile Engineer / モバイルエンジニア
-
-### 🇯🇵 Bridging Japan & Indonesia through Technology
-
-### 🇯🇵 技術で日本とインドネシアをつなぐエンジニア
+## 🚀 About Me / 自己紹介
 
 I am a Mobile Engineer specializing in iOS (SwiftUI), Android (Kotlin), and Kotlin Multiplatform (KMM),
 with a strong focus on architecture, problem solving, and real-world product development.
@@ -32,20 +20,6 @@ I design reliable systems — not just apps.
 
 ---
 
-## 🚀 About Me / 自己紹介
-
-I work closely with Japanese professionals in a real business environment,
-which allows me to understand both technology and Japanese work culture deeply.
-
-日本人エンジニアやビジネスパーソンと日々協働し、
-技術だけでなく、日本の働き方や価値観も深く理解しています。
-
-My goal is to become a bridge engineer connecting Japan and Indonesia.
-
-日本とインドネシアをつなぐ「ブリッジエンジニア」を目指しています。
-
----
-
 ## 💡 What Makes Me Different / 強み
 
 ✔ Architecture-focused engineer
@@ -56,6 +30,9 @@ My goal is to become a bridge engineer connecting Japan and Indonesia.
 
 ✔ Cross-cultural understanding (Japan–Indonesia)
 日印の文化理解
+
+✔ Real product experience (not demo projects)
+実際の業務で使われるプロダクト開発経験
 
 ---
 
@@ -81,11 +58,15 @@ My goal is to become a bridge engineer connecting Japan and Indonesia.
 ## 💼 Real-World Experience / 実務経験
 
 Currently working in a Japanese business environment,
-developing solutions to improve operations.
+developing solutions to improve operations and efficiency.
 
 日本企業環境で業務改善のためのアプリ開発に従事しています。
 
 ### 🚗 DriveMate (Internal DX App)
+
+A digital transformation project replacing manual workflows:
+
+業務のデジタル化を目的としたアプリ開発
 
 • Attendance management
 • Vehicle checklist & safety validation
@@ -97,9 +78,9 @@ developing solutions to improve operations.
 • リアルタイム追跡
 • レポート機能
 
-This experience strengthened my ability to design reliable systems.
+This experience strengthened my ability to design reliable and scalable systems.
 
-この経験により、実務に耐えうるシステム設計力を強化しました。
+この経験により、実務に耐えうるスケーラブルなシステム設計力を強化しました。
 
 ---
 
@@ -120,7 +101,7 @@ This experience strengthened my ability to design reliable systems.
 
 * SwiftUI (iOS)
 * Kotlin (Android)
-* Kotlin Multiplatform
+* Kotlin Multiplatform (KMM)
 
 **Backend / Cloud**
 
@@ -132,13 +113,18 @@ This experience strengthened my ability to design reliable systems.
 * Clean Architecture
 * MVVM / MVI
 
+**Tools**
+
+* Git / GitHub
+* REST API
+
 ---
 
 ## 📈 Currently Learning / 学習中
 
-• CI/CD
-• System Design
-• AI Integration
+• CI/CD for mobile development
+• Scalable system design
+• AI integration in mobile apps
 
 ---
 
@@ -149,14 +135,6 @@ and connect Japan and Indonesia through technology.
 
 信頼できるプロダクトを作り、
 技術で日本とインドネシアをつなぐ。
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iskandarjajuri\&show_icons=true\&theme=tokyonight\&hide_title=true\&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iskandarjajuri\&layout=compact\&theme=tokyonight)
 
 ---
 
